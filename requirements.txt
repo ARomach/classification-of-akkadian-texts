@@ -1,0 +1,10 @@
+numpy
+pandas
+torch
+scikit-learn
+tokenizers
+transformers==4.33.0
+accelerate==0.23.0
+matplotlib
+plotly
+regex
